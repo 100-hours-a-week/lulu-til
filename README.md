@@ -15,6 +15,7 @@
 - [26.05.22](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-22(딥다이브).md) - [딥다이브-Spring Boot의 의존성 주입 구조]
 - [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/May/HTTP.md) - [HTTP]
 - [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/May/rest-api.md) - [RESTful API 설계]
+- [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/May/5월-2주차-한줄정리.md) - [5월 2주차 한줄정리]
 
 ### [5월 넷째주, 2주차] : ??
 - [26.05.26](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-26.md) - [DB, Index, Transaction]
