@@ -21,4 +21,5 @@
 ### [5월 넷째주, 2주차] : ??
 - [26.05.26](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-26.md) - [DB, Index, Transaction]
 - [26.05.27](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-27.md) - [HTTP 자격 증명 헤더, JWT, RTR]
+- [26.05.27](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-28.md) - [NoSQL, Partitioning, Server Cache]
 
