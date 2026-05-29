@@ -18,8 +18,9 @@
 - [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/May/rest-api.md) - [RESTful API 설계]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/May/5월-2주차-한줄정리.md) - [5월 2주차 한줄정리]
 
-### [5월 넷째주, 2주차] : ??
+### [5월 다섯째주, 3주차] : 인증/인가, DB
 - [26.05.26](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-26.md) - [DB, Index, Transaction]
 - [26.05.27](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-27.md) - [HTTP 자격 증명 헤더, JWT, RTR]
 - [26.05.28](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-28.md) - [NoSQL, Partitioning, Server Cache]
+- [26.05.29](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-29(딥다이브).md) - [Lock, OAuth, Optimizer]
 
