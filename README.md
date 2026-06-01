@@ -24,3 +24,5 @@
 - [26.05.28](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-28.md) - [NoSQL, Partitioning, Server Cache]
 - [26.05.29](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-29(딥다이브).md) - [Lock, OAuth, Optimizer]
 
+### [6월 첫째주, 4주차] : ??
+- [26.06.01](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-01.md) - [ORM, JPA, Annotation, 영속성 컨텍스트, Proxy]
