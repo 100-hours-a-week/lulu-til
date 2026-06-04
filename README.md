@@ -6,6 +6,7 @@
 
 ### [6월 첫째주, 4주차] : ??
 - [26.06.01](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-01.md) - [ORM, JPA, Annotation, 영속성 컨텍스트, Proxy]
+- [26.06.02](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-02.md) - [JPA, JPQL, Spring Data JPA, QueryDSL]
 
 ### [5월 다섯째주, 3주차] : 인증/인가, DB
 - [26.05.26](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-26.md) - [DB, Index, Transaction] <a href="https://dev-minsol.tistory.com/4">개념정리</a>
