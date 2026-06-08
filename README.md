@@ -4,11 +4,15 @@
 ### 블로그에 추가로 정리한 내용들은 오른쪽에 따로 링크를 첨부했습니다 !
 
 
-### [6월 첫째주, 4주차] : ??
+### [6월 둘째주, 5주차] : ?
+- [26.06.08](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-08.md) - [리눅스, 운영체제, 스레드, 프로세스]
+
+### [6월 첫째주, 4주차] : Spring
 - [26.06.01](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-01.md) - [ORM, JPA, Annotation, 영속성 컨텍스트, Proxy]
 - [26.06.02](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-02.md) - [JPA, JPQL, Spring Data JPA, QueryDSL]
 - [26.06.04](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-04.md) - [벡엔드 설계 방식, 예외처리, 필터, 인터셉터]
 - [26.06.05](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-05(딥다이브).md) - [딥다이브-FetchType, N+1 문제]
+- [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/6월-1주차-한줄정리.md) - [6월 1주차 한줄정리]
 
 ### [5월 다섯째주, 3주차] : 인증/인가, DB
 - [26.05.26](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-26.md) - [DB, Index, Transaction] <a href="https://dev-minsol.tistory.com/4">개념정리</a>
