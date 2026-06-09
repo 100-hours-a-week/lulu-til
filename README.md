@@ -19,6 +19,7 @@
 - [26.05.27](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-27.md) - [HTTP 자격 증명 헤더, JWT, RTR] <a href="https://dev-minsol.tistory.com/5">개념정리</a>
 - [26.05.28](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-28.md) - [NoSQL, Partitioning, Server Cache] 
 - [26.05.29](https://github.com/100-hours-a-week/lulu-til/blob/main/May/2026-05-29(딥다이브).md) - [Lock, OAuth, Optimizer] <a href="https://dev-minsol.tistory.com/6">개념정리</a>
+- [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/May/backend_1.md) - [커뮤니티 백엔드 설계-ERD, CRUD, JWT]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/May/5월-3주차-한줄정리.md) - [5월 3주차 한줄정리]
 
 ### [5월 넷째주, 2주차] : WEB, Spring
