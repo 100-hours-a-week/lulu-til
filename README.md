@@ -6,6 +6,7 @@
 
 ### [6월 둘째주, 5주차] : ?
 - [26.06.08](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-08.md) - [리눅스, 운영체제, 스레드, 프로세스]
+- [26.06.09](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-09.md) - [스케줄러, 동시성, 병렬성]
 
 ### [6월 첫째주, 4주차] : Spring
 - [26.06.01](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-01.md) - [ORM, JPA, Annotation, 영속성 컨텍스트, Proxy]
