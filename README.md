@@ -11,7 +11,7 @@
 
 ### [6월 첫째주, 4주차] : Spring
 - [26.06.01](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-01.md) - [ORM, JPA, Annotation, 영속성 컨텍스트, Proxy] <a href="https://dev-minsol.tistory.com/8">개념정리1</a> <a href="https://dev-minsol.tistory.com/9">개념정리2</a>
-- [26.06.02](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-02.md) - [JPA, JPQL, Spring Data JPA, QueryDSL]
+- [26.06.02](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-02.md) - [JPA, JPQL, Spring Data JPA, QueryDSL] <a href="https://dev-minsol.tistory.com/10">개념정리</a>
 - [26.06.04](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-04.md) - [벡엔드 설계 방식, 예외처리, 필터, 인터셉터]
 - [26.06.05](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-05(딥다이브).md) - [딥다이브-FetchType, N+1 문제]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/6월-1주차-한줄정리.md) - [6월 1주차 한줄정리]
