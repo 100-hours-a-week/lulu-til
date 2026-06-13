@@ -9,7 +9,7 @@
 - [26.06.09](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-09.md) - [스케줄러, 동시성, 병렬성]
 - [26.06.10](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-10.md) - [공유 자원, Lock]
 - [26.06.11](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-11.md) - [DeadLock, 세마포어, 리눅스 명령어]
-- [26.06.12](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-12(딥다이브).md) - [프로세스와 스레드, 커널모드 전환 비용]
+- [26.06.12](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-12(딥다이브).md) - [딥다이브-프로세스와 스레드, 커널모드 전환 비용]
 
 ### [6월 첫째주, 4주차] : Spring
 - [26.06.01](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-01.md) - [ORM, JPA, Annotation, 영속성 컨텍스트, Proxy] <a href="https://dev-minsol.tistory.com/8">개념정리1</a> <a href="https://dev-minsol.tistory.com/9">개념정리2</a>
