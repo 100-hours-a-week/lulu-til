@@ -6,6 +6,9 @@
 
 ### [6월 셋째주, 6주차] : ??
 - [26.06.15](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-15.md) - [네트워크, LAN, 네트워크 장비들]
+- [26.06.16](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-16.md) - [Inline, Out ot Path, WireShark]
+- [26.06.17](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-17.md) - [Proxy, VPN, NAT, CIDR]
+
 
 ### [6월 둘째주, 5주차] : OS, 리눅스, 스레드, 프로세스
 - [26.06.08](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-08.md) - [리눅스, 운영체제, 스레드, 프로세스]
