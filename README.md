@@ -15,7 +15,7 @@
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/6월-3주차-한줄정리.md) - [6월 3주차 한줄정리]
 
 ### [6월 둘째주, 5주차] : OS, 리눅스, 스레드, 프로세스
-- [26.06.08](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-08.md) - [리눅스, 운영체제, 스레드, 프로세스]
+- [26.06.08](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-08.md) - [리눅스, 운영체제, 스레드, 프로세스] <a href="https://dev-minsol.tistory.com/12">개념정리</a> <a href="https://dev-minsol.tistory.com/13">개념정리</a>
 - [26.06.09](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-09.md) - [스케줄러, 동시성, 병렬성]
 - [26.06.10](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-10.md) - [공유 자원, Lock]
 - [26.06.11](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-11.md) - [DeadLock, 세마포어, 리눅스 명령어]
@@ -27,7 +27,7 @@
 - [26.06.02](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-02.md) - [JPA, JPQL, Spring Data JPA, QueryDSL] <a href="https://dev-minsol.tistory.com/10">개념정리</a>
 - [26.06.04](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-04.md) - [벡엔드 설계 방식, 예외처리, 필터, 인터셉터]
 - [26.06.05](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-05(딥다이브).md) - [딥다이브-FetchType, N+1 문제] <a href="https://dev-minsol.tistory.com/11">개념정리</a>
-- [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/June/4주차-위클리챌린지.md) - [커뮤니티 백엔드 구현-JPA, QueryDSL, Entity]
+- [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/June/4주차-위클리챌린지.md) - [커뮤니티 백엔드 구현-JPA, QueryDSL, Entity] <a href="https://dev-minsol.tistory.com/14">개발과정</a>
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/6월-1주차-한줄정리.md) - [6월 1주차 한줄정리]
 
 ### [5월 다섯째주, 3주차] : 인증/인가, DB
