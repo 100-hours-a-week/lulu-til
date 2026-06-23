@@ -27,6 +27,7 @@
 - [26.06.02](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-02.md) - [JPA, JPQL, Spring Data JPA, QueryDSL] <a href="https://dev-minsol.tistory.com/10">개념정리</a>
 - [26.06.04](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-04.md) - [벡엔드 설계 방식, 예외처리, 필터, 인터셉터]
 - [26.06.05](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-05(딥다이브).md) - [딥다이브-FetchType, N+1 문제] <a href="https://dev-minsol.tistory.com/11">개념정리</a>
+- [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/June/4주차-위클리챌린지.md) - [커뮤니티 백엔드 구현-JPA, QueryDSL, Entity]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/6월-1주차-한줄정리.md) - [6월 1주차 한줄정리]
 
 ### [5월 다섯째주, 3주차] : 인증/인가, DB
