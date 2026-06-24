@@ -7,6 +7,7 @@
 ### [6월 넷째주, 7주차] : ?
 - [26.06.22](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-22.md) - [AWS(VPC, EC2, IAM, Route53, 보안그룹)]
 - [26.06.23](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-23.md) - [AWS(S3, RDS)]
+- [26.06.24](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-24.md) - [AWS(ElastiCache, ELB, CloudFront)]
 
 ### [6월 셋째주, 6주차] : 네트워크
 - [26.06.15](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-15.md) - [네트워크, LAN, 네트워크 장비들]
