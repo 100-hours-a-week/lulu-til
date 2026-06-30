@@ -26,6 +26,7 @@
 - [26.06.10](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-10.md) - [공유 자원, Lock]
 - [26.06.11](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-11.md) - [DeadLock, 세마포어, 리눅스 명령어] <a href="https://dev-minsol.tistory.com/15">개념정리</a>
 - [26.06.12](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-12(딥다이브).md) - [딥다이브-프로세스와 스레드, 커널모드 전환 비용]
+- [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/June/5주차-위클리챌린지.md) - [AWS 단일 EC2 배포]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/6월-2주차-한줄정리.md) - [6월 2주차 한줄정리]
 
 ### [6월 첫째주, 4주차] : Spring
