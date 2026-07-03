@@ -9,6 +9,7 @@
 - [26.06.30](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-30.md) - [Docker(Portainer, Volume)]
 - [26.07.01](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-01.md) - [Docker(Bridge, Network Driver)]
 - [26.07.02](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-02.md) - [Docker Compose]
+- [26.07.03](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-03.md) - [딥다이브 - 도커 이미지 최적화]
 
 ### [6월 넷째주, 7주차] : AWS
 - [26.06.22](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-22.md) - [AWS(VPC, EC2, IAM, Route53, 보안그룹)]
