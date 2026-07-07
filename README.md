@@ -5,8 +5,8 @@
 
 
 ### [7월 둘째주, 9주차] : CI/CD
-- [26.07.06](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-07-06.md) - [CI/CD(Github Actions)]
-- [26.07.07](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-07-07.md) - [CI/CD(Zero-downtime Deployment)]
+- [26.07.06](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-06.md) - [CI/CD(Github Actions)]
+- [26.07.07](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-07.md) - [CI/CD(Zero-downtime Deployment)]
 
 ### [7월 첫째주, 8주차] : Docker
 - [26.06.29](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-29.md) - [Docker(File, Image, Registry, Container)]
