@@ -14,6 +14,7 @@
 - [26.07.01](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-01.md) - [Docker(Bridge, Network Driver)]
 - [26.07.02](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-02.md) - [Docker Compose]
 - [26.07.03](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-03.md) - [딥다이브 - 도커 이미지 최적화]
+- [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/July/8주차-위클리챌린지.md) - [도커 설계 및 배포]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/7월-1주차-한줄정리.md) - [7월 1주차 한줄정리]
 
 ### [6월 넷째주, 7주차] : AWS
