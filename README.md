@@ -8,13 +8,14 @@
 - [26.07.06](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-06.md) - [CI/CD(Github Actions)]
 - [26.07.07](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-07.md) - [CI/CD(Zero-downtime Deployment)]
 - [26.07.08](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-08.md) - [AWS(ECR, Code Delploy)]
+- [26.07.10](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-10(딥다이브).md) - [딥다이브 - 무중단 배포 방식과 문제점]
 
 ### [7월 첫째주, 8주차] : Docker
 - [26.06.29](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-29.md) - [Docker(File, Image, Registry, Container)]
 - [26.06.30](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-30.md) - [Docker(Portainer, Volume)]
 - [26.07.01](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-01.md) - [Docker(Bridge, Network Driver)]
 - [26.07.02](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-02.md) - [Docker Compose]
-- [26.07.03](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-03.md) - [딥다이브 - 도커 이미지 최적화]
+- [26.07.03](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-03(딥다이브).md) - [딥다이브 - 도커 이미지 최적화]
 - [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/July/8주차-위클리챌린지.md) - [도커 설계 및 배포]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/June/7월-1주차-한줄정리.md) - [7월 1주차 한줄정리]
 
