@@ -3,7 +3,7 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 ### 블로그에 추가로 정리한 내용들은 오른쪽에 따로 링크를 첨부했습니다 !
 
-### [7월 셋째주, 11주차] : Kubernetes
+### [7월 넷째주, 11주차] : Kubernetes
 - [26.07.20](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-20.md) - [Kubernetes(Namespace, ResourceQuota, LimitRange, ConfigMap, Secret)]
 
 ### [7월 셋째주, 10주차] : Kubernetes
