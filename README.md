@@ -7,6 +7,7 @@
 - [26.07.13](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-13.md) - [Kubernetes(기초, Master Node, Worker Node)]
 - [26.07.14](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-14.md) - [Kubernetes(kubectl, Pod, Label, Selector)]
 - [26.07.15](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-15.md) - [Kubernetes(Service, Probe, Qos Classes)]
+- [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/July/7월-3주차-한줄정리.md) - [7월 3주차 한줄정리]
 
 ### [7월 둘째주, 9주차] : CI/CD
 - [26.07.06](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-06.md) - [CI/CD(Github Actions)]
