@@ -32,7 +32,7 @@
 
 ### [6월 넷째주, 7주차] : AWS
 - [26.06.22](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-22.md) - [AWS(VPC, EC2, IAM, Route53, 보안그룹)] <a href="https://dev-minsol.tistory.com/20">개념정리</a>
-- [26.06.23](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-23.md) - [AWS(S3, RDS)]
+- [26.06.23](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-23.md) - [AWS(S3, RDS)] <a href="https://dev-minsol.tistory.com/22">개념정리</a>
 - [26.06.24](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-24.md) - [AWS(ElastiCache, ELB, CloudFront)]
 - [26.06.25](https://github.com/100-hours-a-week/lulu-til/blob/main/June/2026-06-25.md) - [AWS(Lambda, API Gateway, CloudTrail, CloudWatch)]
 - [위클리챌린지](https://github.com/100-hours-a-week/lulu-til/blob/main/June/7주차-위클리챌린지.md) - [AWS VPC 설계 및 구현] <a href="https://dev-minsol.tistory.com/21">개발과정</a>
