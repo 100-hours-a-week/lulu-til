@@ -6,6 +6,7 @@
 ### [7월 넷째주, 11주차] : Kubernetes
 - [26.07.20](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-20.md) - [Kubernetes(Namespace, ResourceQuota, LimitRange, ConfigMap, Secret)]
 - [26.07.21](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-21.md) - [Kubernetes(Controller, ReplicaSet, Deployment)]
+- [26.07.22](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-22.md) - [Kubernetes(Job, Networking, VXLAN, IP in IP, BGP, CNI)]
 
 ### [7월 셋째주, 10주차] : Kubernetes
 - [26.07.13](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-13.md) - [Kubernetes(기초, Master Node, Worker Node)]
