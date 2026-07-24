@@ -8,6 +8,7 @@
 - [26.07.21](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-21.md) - [Kubernetes(Controller, ReplicaSet, Deployment)]
 - [26.07.22](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-22.md) - [Kubernetes(Job, Networking, VXLAN, IP in IP, BGP, CNI)]
 - [26.07.23](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-23.md) - [Kubernetes(Volume, PV/PVC, StorageClass, StatefulSet, Node Scheduling)]
+- [26.07.24](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-24(딥다이브).md) - [딥다이브 - Deployment의 Rolling Update]
 
 ### [7월 셋째주, 10주차] : Kubernetes
 - [26.07.13](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-13.md) - [Kubernetes(기초, Master Node, Worker Node)]
