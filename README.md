@@ -9,6 +9,7 @@
 - [26.07.22](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-22.md) - [Kubernetes(Job, Networking, VXLAN, IP in IP, BGP, CNI)]
 - [26.07.23](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-23.md) - [Kubernetes(Volume, PV/PVC, StorageClass, StatefulSet, Node Scheduling)]
 - [26.07.24](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-24(딥다이브).md) - [딥다이브 - Deployment의 Rolling Update]
+- [26.07.24](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-24(특강).md) - [카카오 특강 - AI]
 - [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/July/7월-4주차-한줄정리.md) - [7월 4주차 한줄정리]
 
 ### [7월 셋째주, 10주차] : Kubernetes
