@@ -5,6 +5,7 @@
 
 ### [7월 다섯째주, 12주차] : Kubernetes
 - [26.07.27](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-27.md) - [Kubernetes(RBAC, Service Account, Helm, Ingress)]
+- [26.07.28](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-28.md) - [Kubernetes(ArgoCD, Prometheus, Grafana, Loki)]
 
 ### [7월 넷째주, 11주차] : Kubernetes
 - [26.07.20](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-20.md) - [Kubernetes(Namespace, ResourceQuota, LimitRange, ConfigMap, Secret)]
