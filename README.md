@@ -4,7 +4,7 @@
 ### 블로그에 추가로 정리한 내용들은 오른쪽에 따로 링크를 첨부했습니다 !
 
 ### [8월 첫째주, 13주차] : 특강
-- [26.08.04](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-08-04.md) - [부하테스트]
+- [26.08.04](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-04.md) - [부하테스트]
 
 ### [7월 다섯째주, 12주차] : Kubernetes
 - [26.07.27](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-27.md) - [Kubernetes(RBAC, Service Account, Helm, Ingress)]
