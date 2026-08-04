@@ -8,6 +8,7 @@
 - [26.07.28](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-28.md) - [Kubernetes(ArgoCD, Prometheus, Grafana, Loki)]
 - [26.07.29](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-29.md) - [Kubernetes(HPA, VPA, CA)]
 - [26.07.30](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-30.md) - [카카오 특강 - 협업 도구]
+- [한줄정리](https://github.com/100-hours-a-week/lulu-til/blob/main/July/7월-5주차-한줄정리.md) - [7월 5주차 한줄정리]
 
 ### [7월 넷째주, 11주차] : Kubernetes
 - [26.07.20](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-20.md) - [Kubernetes(Namespace, ResourceQuota, LimitRange, ConfigMap, Secret)]
