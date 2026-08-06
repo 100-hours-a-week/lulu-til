@@ -6,6 +6,7 @@
 ### [8월 첫째주, 13주차] : 특강
 - [26.08.04](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-04.md) - [부하테스트]
 - [26.08.05](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-05.md) - [장애 전파 방지]
+- [26.08.06](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-06.md) - [캐시 문제 해결]
 
 ### [7월 다섯째주, 12주차] : Kubernetes
 - [26.07.27](https://github.com/100-hours-a-week/lulu-til/blob/main/July/2026-07-27.md) - [Kubernetes(RBAC, Service Account, Helm, Ingress)]
