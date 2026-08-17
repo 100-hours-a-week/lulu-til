@@ -3,6 +3,9 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 ### 블로그에 추가로 정리한 내용들은 오른쪽에 따로 링크를 첨부했습니다 !
 
+### [8월 둘째주, 14주차] : 부하테스트(3일간 진행 - 개발기간 2일)
+- [26.08.10~12](https://github.com/100-hours-a-week/lulu-til/blob/main/August/부하테스트.md) - [부하테스트 회고록]
+
 ### [8월 첫째주, 13주차] : 특강
 - [26.08.04](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-04.md) - [부하테스트]
 - [26.08.05](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-05.md) - [장애 전파 방지]
