@@ -3,6 +3,9 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 ### 블로그에 추가로 정리한 내용들은 오른쪽에 따로 링크를 첨부했습니다 !
 
+### [8월 셋째주, 15주차] : AI 해커톤(4일간 진행 - 개발기간 3일)
+- [26.08.18](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-18.md) - [카카오 특강 — 에이전트 엔지니어링]
+
 ### [8월 둘째주, 14주차] : 부하테스트(3일간 진행 - 개발기간 2일)
 - [26.08.10~12](https://github.com/100-hours-a-week/lulu-til/blob/main/August/부하테스트.md) - [부하테스트 회고록]
 
