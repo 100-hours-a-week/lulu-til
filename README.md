@@ -3,6 +3,10 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 ### 블로그에 추가로 정리한 내용들은 오른쪽에 따로 링크를 첨부했습니다 !
 
+### [8월 넷째주, 16주차] : 파이널 팀 프로젝트(기획 1주일)
+- [화면 설계서](https://www.figma.com/design/V3oN8kC6qOXhlzcLFEgvFt/Side-Company-1.0.0--%EC%8B%A4%EC%8A%B5%EC%9A%A9---%EB%B3%B5%EC%82%AC-?node-id=7223-21707&p=f&t=fKqoX0wyQoPibaeK-0)
+- [Wiki](https://github.com/100-hours-a-week/KTB4-16th-wiki/wiki/Vision) 
+
 ### [8월 셋째주, 15주차] : AI 해커톤(4일간 진행 - 개발기간 3일)
 - [26.08.18](https://github.com/100-hours-a-week/lulu-til/blob/main/August/2026-08-18.md) - [카카오 특강 — 에이전트 엔지니어링]
 
